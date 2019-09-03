@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: lib/mysql-connector-java-8.0.16.jar 
+Main-Class: com.bozpower.SocketMain
+
+  
